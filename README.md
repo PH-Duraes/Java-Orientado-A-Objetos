@@ -1,7 +1,7 @@
 # Sistema de Banco em Java 
 <p>Desafio: Neste projeto oferecido pela DIO, usamos os conhecimentos que aprendemos durante o curso de 
 Orientação a Objetos em Java para criarmos uma aplicação que simulasse um banco, tendo alguns métodos como: Sacar,
-deposittar, e transferir;
+depositar, e transferir;
 <br>
 <p> Abaixo, deixei listado alguns dos conceitos sobre a Orientação a Objetos usado nesse projeto;
 
