@@ -2,7 +2,11 @@
 <p>Desafio: Neste projeto oferecido pela DIO, usamos os conhecimentos que aprendemos durante o curso de 
 Orientação a Objetos em Java para criarmos uma aplicação que simulasse um banco, tendo alguns métodos como: Sacar,
 deposittar, e transferir;
+<br>
+<p> Abaixo, deixei listado alguns dos conceitos sobre a Orientação a Objetos usado nesse projeto;
 
+
+## Conceitos
 
 ### Abstração
 <p>Habilidade de concentrar-se nos aspectos essenciais de um domínio, 
